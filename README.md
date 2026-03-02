@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dracul0p/DSA-2026/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/dracul0p/DSA-2026/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/dracul0p/DSA-2026/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/dracul0p/DSA-2026/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/dracul0p/DSA-2026/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/dracul0p/DSA-2026/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
