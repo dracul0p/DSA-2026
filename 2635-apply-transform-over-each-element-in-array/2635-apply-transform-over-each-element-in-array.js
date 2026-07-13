@@ -16,7 +16,5 @@ var map = function(arr, fn) {
     
 };
 
-function fn(n , i){
-  return n + i;
-}
+
 
